@@ -1,4 +1,4 @@
-### It's a car auction landing page built with React.js, Typescript and ReactBootstrap
+### It's a car auction landing page built with React.js, Typescript and ReactBootstrap <a target="_blank" href="https://carauctionlanding.netlify.app/">Live Demo</a>
 
 ## How it works
 
