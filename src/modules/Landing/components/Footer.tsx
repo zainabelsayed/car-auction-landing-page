@@ -7,7 +7,7 @@ import logo from '../../../assets/images/logo-white-en.png';
 const Footer: React.FC = () => {
   return (
     <footer className="bg-dark text-white">
-      <div className="container-lg py-5">
+      <div className="container-lg mx-3 mx-md-auto py-5">
         <Row className="gap-3 justify-content-between">
           <Col md={4}>
             <a href="#" className="text-decoration-none">
