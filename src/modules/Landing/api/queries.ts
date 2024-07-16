@@ -7,7 +7,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '90,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-1.jpg',
+    img: './src/assets/images/car-1.jpg',
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '80,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-2.jpg',
+    img: './src/assets/images/car-2.jpg',
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '30,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-3.jpg',
+    img: './src/assets/images/car-3.jpg',
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '40,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-4.jpg',
+    img: './src/assets/images/car-4.jpg',
   },
   {
     id: 5,
@@ -39,7 +39,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '50,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-5.jpg',
+    img: './src/assets/images/car-5.jpg',
   },
   {
     id: 6,
@@ -47,7 +47,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '70,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-6.jpg',
+    img: './src/assets/images/car-6.jpg',
   },
   {
     id: 7,
@@ -55,7 +55,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '80,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-7.jpg',
+    img: './src/assets/images/car-7.jpg',
   },
   {
     id: 8,
@@ -63,7 +63,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '60,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-8.jpg',
+    img: './src/assets/images/car-8.jpg',
   },
   {
     id: 9,
@@ -71,7 +71,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '90,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-9.jpg',
+    img: './src/assets/images/car-9.jpg',
   },
   {
     id: 10,
@@ -79,7 +79,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '80,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-10.jpg',
+    img: './src/assets/images/car-10.jpg',
   },
   {
     id: 11,
@@ -87,7 +87,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '30,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-11.jpg',
+    img: './src/assets/images/car-11.jpg',
   },
   {
     id: 12,
@@ -95,7 +95,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '40,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-12.jpg',
+    img: './src/assets/images/car-12.jpg',
   },
   {
     id: 13,
@@ -103,7 +103,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '50,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-13.jpg',
+    img: './src/assets/images/car-13.jpg',
   },
   {
     id: 14,
@@ -111,7 +111,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '70,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-14.jpg',
+    img: './src/assets/images/car-14.jpg',
   },
   {
     id: 15,
@@ -119,7 +119,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '80,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-15.jpg',
+    img: './src/assets/images/car-15.jpg',
   },
   {
     id: 16,
@@ -127,7 +127,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '60,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-16.jpg',
+    img: './src/assets/images/car-16.jpg',
   },
   {
     id: 17,
@@ -135,7 +135,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '50,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-17.jpg',
+    img: './src/assets/images/car-17.jpg',
   },
   {
     id: 18,
@@ -143,7 +143,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '70,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-18.jpg',
+    img: './src/assets/images/car-18.jpg',
   },
   {
     id: 19,
@@ -151,7 +151,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '80,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-19.jpg',
+    img: './src/assets/images/car-19.jpg',
   },
   {
     id: 20,
@@ -159,7 +159,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '60,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-20.jpg',
+    img: './src/assets/images/car-20.jpg',
   },
   {
     id: 21,
@@ -167,7 +167,7 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '60,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-21.jpg',
+    img: './src/assets/images/car-21.jpg',
   },
   {
     id: 22,
@@ -175,6 +175,6 @@ export const carsList: Car[] = [
     time: '5:00',
     bid: '90,000 AED',
     description: 'Year 2019, Kilometer 8,369, Fuel type Gasoline',
-    img: 'src/assets/images/car-1.jpg',
+    img: './src/assets/images/car-1.jpg',
   },
 ];
